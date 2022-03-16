@@ -1,7 +1,7 @@
 # Analyzing and AB Testing
 
 ### Project details:
-For this project, I used AB testing and linear regression. The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+For this project, I used AB testing and linear regression. To understand customers' behavior to help a company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ### A/B test:
 
